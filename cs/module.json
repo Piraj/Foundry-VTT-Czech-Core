@@ -3,9 +3,13 @@
 	"title": "Czech [Core]",
 	"description": "Czech translation for core Foundry VTT",
 	"authors": [{
-		"name": "Piraj"
-	}],
-	"version": "0.0.1",
+			"name": "Piraj"
+		},
+		{
+			"name": "Professional_Noob"
+		}
+	],
+	"version": "0.0.2",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10"
