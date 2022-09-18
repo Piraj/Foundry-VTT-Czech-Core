@@ -1,0 +1,19 @@
+{
+	"id": "cs",
+	"title": "Czech [Core]",
+	"description": "Czech translation for core Foundry VTT",
+	"authors": [{
+		"name": "Piraj"
+	}],
+	"version": "0.0.1",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10"
+	},
+	"coreTranslation": true,
+	"languages": [{
+		"lang": "cs",
+		"name": "Čeština",
+		"path": "lang/cs.json"
+	}]
+}
